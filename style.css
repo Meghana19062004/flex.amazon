@@ -1,0 +1,210 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+    
+}
+h1{
+    text-align: center;
+    background-color: rgb(222, 70, 10);
+    color: aliceblue;
+    padding: 20px;
+    margin: 0 0 30px;
+}
+
+.container{
+    width:100vw;
+    height:100vh;
+    /* background-color:rgb(187, 221, 244); */
+    display:flex;
+    /* column-gap:10px; */
+    row-gap: 80px;
+    /* flex-wrap:wrap; */
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    
+}
+
+.child:hover{
+    transform:scale(1.5);
+}
+
+.child{
+    height:70vh;
+    width:35vw;
+    transition:transform 0.3s;
+    /* background-color: rgb(220, 89, 218); */
+    border:1px solid #ddd;
+    border-radius: 8px;
+}
+.child1{
+    height:35vh;
+    width:18vw;
+    /* background-color: rgb(187, 221, 244); */
+
+}
+.child11{
+    height:30vh;
+    width:35vw;
+    /* border-style:solid; */
+    background-image: url("https://m.media-amazon.com/images/I/51CIIx6l+VL._AC_UY327_FMwebp_QL65_.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.child2{
+    height:35vh;
+    width:18vw;
+    /* background-color: rgb(187, 221, 244); */
+
+}
+.child21{
+    height:30vh;
+    width:35vw;
+    /* border-style:solid; */
+    background-image: url("https://m.media-amazon.com/images/I/71MdmsrpaFL._AC_UY327_FMwebp_QL65_.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+   
+}
+
+.child3{
+    height:35vh;
+    width:18vw;
+    /* background-color: rgb(187, 221, 244); */
+
+}
+.child31{
+    height:30vh;
+    width:35vw;
+    /* border-style:solid; */
+    background-image: url("https://m.media-amazon.com/images/I/71UhRPa+WsL._AC_UY327_FMwebp_QL65_.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+   
+}
+
+.child4{
+    height:35vh;
+     width:18vw;
+    /* background-color: 
+    rgb(187, 221, 244); */ 
+
+}
+.child41{
+    height:30vh;
+    width:35vw;
+    /* border-style:solid; */
+    background-image: url("https://m.media-amazon.com/images/I/51JTBldTCXL._AC_UY327_FMwebp_QL65_.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+   
+}
+
+.child5{
+    height:35vh;
+    width:18vw;
+    /* background-color: rgb(187, 221, 244); */
+
+}
+
+
+.child51{
+    height:30vh;
+    width:35vw;
+    /* border-style:solid; */
+    background-image: url("https://m.media-amazon.com/images/I/71Ox2cn1mHL._AC_UY327_FMwebp_QL65_.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+   
+}
+
+.child6{
+    height:35vh;
+    width:18vw;
+    /* background-color: rgb(187, 221, 244); */
+
+}
+
+
+.child61{
+    height:30vh;
+    width:35vw;
+    /* border-style:solid; */
+    background-image: url("https://m.media-amazon.com/images/I/514eCM+fp3L._AC_UY327_FMwebp_QL65_.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+   
+}
+
+.child7{
+    height:35vh;
+    width:18vw;
+    /* background-color: rgb(187, 221, 244); */
+
+}
+
+
+.child71{
+    height:30vh;
+    width:35vw;
+    /* border-style:solid; */
+    background-image: url("https://m.media-amazon.com/images/I/71vNBnnFl7L._SX679_.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}  
+
+.child8{
+    height:35vh;
+    width:18vw;
+    /* background-color: rgb(187, 221, 244); */
+
+}
+
+
+.child81{
+    height:30vh;
+    width:35vw;
+    /* border-style:solid; */
+    background-image: url("https://m.media-amazon.com/images/I/81BEfyD0qeL._AC_UY327_FMwebp_QL65_.jpg");
+    background-size: contain;
+    background-repeat: no-repeat; 
+}  
+
+.child9{
+    height:35vh;
+    width:18vw;
+    /* background-color: rgb(187, 221, 244); */
+
+}
+
+
+.child91{
+    height:30vh;
+    width:35vw;
+    /* border-style:solid; */
+    background-image: url("https://m.media-amazon.com/images/I/71CudLAwF1L._AC_UY327_FMwebp_QL65_.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}   
+
+.child10{
+    height:35vh;
+    width:18vw;
+    /* background-color: rgb(187, 221, 244); */
+
+}
+
+
+.child00{
+    height:30vh;
+    width:35vw;
+    /* border-style:solid; */
+    background-image: url("https://m.media-amazon.com/images/I/718d4Eu7cFL._SX679_.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+
+}
